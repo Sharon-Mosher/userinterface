@@ -1,0 +1,19 @@
+<header>
+   <!-- Main heading -->
+  <h1>Lambda School</h1>
+
+  <!-- Navigation -->
+   <nav>
+     <a href="#">Tracks</a>
+     <a href="#">About</a>
+     <a href="#">Blog</a>
+     <a href="#">Apply Now</a>
+   </nav>
+   </header>
+<section>
+  <!-- Secondary heading -->
+    <h2> A Revolutionary New School That Invests in   You </h2>
+
+  <!-- Site content -->
+    <p>Lambda School is a 30 week, immersive program that gives you the tools and training you need to launch your new career—from the comfort of your own home.</p>
+</section>
